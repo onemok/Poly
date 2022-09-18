@@ -1,9 +1,7 @@
 # Poly
 Language app that lets you talk to people all over the world in the language you want to learn
 
-<img width="240" alt="Screen Shot 2022-09-18 at 3 45 22 AM" src="https://user-images.githubusercontent.com/87621598/190891799-9ee0bad2-4556-4593-bea6-f550b0c2f012.png">
-<img width="232" alt="Screen Shot 2022-09-18 at 3 46 37 AM" src="https://user-images.githubusercontent.com/87621598/190891802-8fd3525a-84c8-4f80-8d18-23a420815d97.png">
-<img width="231" alt="Screen Shot 2022-09-18 at 3 47 06 AM" src="https://user-images.githubusercontent.com/87621598/190891805-4659fb45-d00d-4925-ac71-1370254dee8c.png">
+<img width="240" alt="Screen Shot 2022-09-18 at 3 45 22 AM" src="https://user-images.githubusercontent.com/87621598/190891799-9ee0bad2-4556-4593-bea6-f550b0c2f012.png"> <img width="232" alt="Screen Shot 2022-09-18 at 3 46 37 AM" src="https://user-images.githubusercontent.com/87621598/190891802-8fd3525a-84c8-4f80-8d18-23a420815d97.png"> <img width="231" alt="Screen Shot 2022-09-18 at 3 47 06 AM" src="https://user-images.githubusercontent.com/87621598/190891805-4659fb45-d00d-4925-ac71-1370254dee8c.png">
 
 
 ## Inspiration
