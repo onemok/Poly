@@ -1,6 +1,11 @@
 # Poly
 Language app that lets you talk to people all over the world in the language you want to learn
 
+<img width="240" alt="Screen Shot 2022-09-18 at 3 45 22 AM" src="https://user-images.githubusercontent.com/87621598/190891799-9ee0bad2-4556-4593-bea6-f550b0c2f012.png">
+<img width="232" alt="Screen Shot 2022-09-18 at 3 46 37 AM" src="https://user-images.githubusercontent.com/87621598/190891802-8fd3525a-84c8-4f80-8d18-23a420815d97.png">
+<img width="231" alt="Screen Shot 2022-09-18 at 3 47 06 AM" src="https://user-images.githubusercontent.com/87621598/190891805-4659fb45-d00d-4925-ac71-1370254dee8c.png">
+
+
 ## Inspiration
 As people who have learned multiple languages before, we discovered that speaking and interacting with an actual person, rather than just reading or writing, is the most effective and fastest way to truly learn another language. We decided there needs to be a platform where language learners from all over the world can utilize their freshly earned knowledge or skills in a live setting. Thus, we built Poly, where our users can live chat with others, to maximize their potential into reaching their goals of becoming a polyglot. 
 ## What it does
